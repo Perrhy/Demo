@@ -1,0 +1,26 @@
+
+footer{
+    background-color:white;
+    position: relative;
+    top: 40px;
+    left: -7px;
+    width: 101%;
+}
+
+footer a{
+    text-decoration: none;
+    position: relative;
+    top: -15px;
+    left: 45px;
+}
+
+footer p{
+    position: relative;
+    top: 15px;
+    font-size: 20px;
+}
+
+.image{
+    filter: grayscale(100%);
+    position: relative;
+}
